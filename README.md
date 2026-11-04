@@ -67,8 +67,8 @@ The project implements two retrieval approaches:
 ```text
 Legal-Document-RAG/
 │
-├── app.py
-├── legal_rag.py
+├── main.py
+├── rag.py
 ├── requirements.txt
 └── README.md
 ```
@@ -108,20 +108,11 @@ pip install -r requirements.txt
 
 ### 4. Install and Configure Ollama
 
-Install Ollama and download the required models:
-
-```bash
-ollama pull llama3.2:3b
-ollama pull gemma3:1b
-```
+Install Ollama and download the required models
 
 Make sure the Ollama service is running before starting the application.
 
 ### 5. Run the Application
-
-```bash
-python app.py
-```
 
 ## Important Notes
 
