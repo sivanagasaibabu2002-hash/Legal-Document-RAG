@@ -78,7 +78,7 @@ Legal-Document-RAG/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Legal-Document-RAG.git
+git clone https://github.com/sivanagasaibabu2002-hash/Legal-Document-RAG.git
 cd Legal-Document-RAG
 ```
 
